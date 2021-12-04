@@ -1,7 +1,4 @@
-# Group Members
-# Aimen Malik - 299395
-# Zainab Ghauri - 296357
-# Farhan Majeed - 286396
+
 
 import collections
 import os
